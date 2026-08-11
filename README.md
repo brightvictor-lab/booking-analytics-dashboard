@@ -4,7 +4,7 @@ A React dashboard that turns a salon's raw bookings into a clear business pictur
 
 Built as the analytics layer for the booking sites at [Chronicle Web](https://github.com/brightvictor-lab). First of three React portfolio projects.
 
-**🔗 Live demo:https://bookingsanalysisdashboard.netlify.app/
+**🔗 Live demo:https://braidbookapp.netlify.app/
 
 ---
 
